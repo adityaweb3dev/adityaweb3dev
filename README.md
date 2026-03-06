@@ -1,7 +1,7 @@
 <!-- WEB3 PROFILE README -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=ADITYA%20WEB3%20DEV&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=ADITYA%20WEB3%20DEVELOPER&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
@@ -14,19 +14,41 @@
 
 ---
 
-## 🧬 Web3 Identity
+# 🧬 Web3 Identity
 
 ```text
-Developer: Aditya
+Name: Aditya
 Username: adityaweb3dev
-Focus: Web3 Development
-Specialization: Smart Contracts • dApps • Blockchain Apps
+Role: Web3 Developer
+Focus: Blockchain Development
+Specialization: Smart Contracts • dApps • NFT Platforms
 Mission: Build the decentralized future
 ```
 
 ---
 
-## ⚡ Web3 Tech Stack
+# 🚀 Live Web3 Project
+
+### 🖼 NFT Marketplace
+
+A decentralized NFT marketplace where users can mint, buy, and sell NFTs.
+
+🔗 Live App
+https://nftmarketplace-lovat.vercel.app/
+
+⚙️ Tech Used
+
+* Solidity
+* React
+* Web3.js
+* Hardhat
+* IPFS
+* MetaMask
+* Ethereum
+
+---
+
+# ⚡ Web3 Tech Stack
 
 <p align="center">
 
@@ -45,7 +67,7 @@ Mission: Build the decentralized future
 
 ---
 
-## 🌐 Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -53,7 +75,7 @@ Mission: Build the decentralized future
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:aditya.web3.blockchain.com">
+<a href="mailto:aditya.web3.blockchain@gmail.com">
 <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -65,7 +87,37 @@ Mission: Build the decentralized future
 
 ---
 
-## ⛓ Blockchain Activity
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adityaweb3dev&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaweb3dev&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📡 Contribution Network
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaweb3dev&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🐍 Code Flow
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# ⛓ Blockchain Activity
 
 <p align="center">
 
@@ -76,36 +128,19 @@ Mission: Build the decentralized future
 <img src="https://img.shields.io/badge/Transactions-Sent-6A00FF?style=for-the-badge&logo=ethereum&logoColor=white"/>
 
 </p>
----
-
-## 📡 Contribution Network
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaweb3dev&theme=react-dark"/>
-
-</p>
 
 ---
 
-## 🐍 Code Flow
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 🚀 Current Focus
+# 🎯 Current Focus
 
 • Building decentralized applications (dApps)
 • Writing secure Solidity smart contracts
-• Exploring DeFi protocols
-• Integrating blockchain with web apps
+• Learning advanced DeFi protocols
+• Integrating blockchain with modern web apps
 
 ---
 
-## 🧠 Web3 Philosophy
+# 🧠 Web3 Philosophy
 
 > “Code is law in decentralized systems.”
 
