@@ -25,29 +25,6 @@ Specialization: Smart Contracts • dApps • NFT Platforms
 Mission: Build the decentralized future
 ```
 
----
-
-# 🚀 Live Web3 Project
-
-### 🖼 NFT Marketplace
-
-A decentralized NFT marketplace where users can mint, buy, and sell NFTs.
-
-🔗 Live App
-https://nftmarketplace-lovat.vercel.app/
-
-⚙️ Tech Used
-
-* Solidity
-* React
-* Web3.js
-* Hardhat
-* IPFS
-* MetaMask
-* Ethereum
-
----
-
 # ⚡ Web3 Tech Stack
 
 <p align="center">
